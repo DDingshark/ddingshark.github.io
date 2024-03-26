@@ -1,1 +1,5 @@
 # ddingshark.github.io
+
+theme: jekyll-theme-minimal
+title: 송명주_201801667
+description: 웹프로그래밍 관련 page
